@@ -1,9 +1,9 @@
-short_name = "godot"
-name = "Godot Engine"
+short_name = "godot pop"
+name = "Godot Engine Pop"
 major = 4
 minor = 6
 patch = 3
-status = "stable"
+status = "freaky"
 module_config = ""
 website = "https://godotengine.org"
 docs = "4.6"
